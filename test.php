@@ -1,0 +1,5 @@
+<?php
+
+$testing = true;
+
+?>
